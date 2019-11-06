@@ -1,0 +1,20 @@
+.modal {
+    width: 70%;
+}
+
+.deleteButton {
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    min-width: unset !important;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 7px;
+    margin-left: 5px;
+    transition: 0.2s all ease-in-out;
+}
+
+.deleteButton:hover {
+    background-color: #eceff1;
+}

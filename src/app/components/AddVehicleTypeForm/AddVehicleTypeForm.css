@@ -1,0 +1,14 @@
+.addVehicleTypeForm {
+    margin-top: 24px;
+    background: #ffffff;
+    box-shadow: 0px 1px 3px rgba(63, 63, 68, 0.15), 0px 0px 0px rgba(63, 63, 68, 0.05);
+    margin-bottom: 15px;
+}
+
+.addVehicleTypeForm h6 {
+    position: relative;
+    padding: 15px 0 15px 25px;
+    font-weight: 600;
+    color: #263238;
+    font-size: 1rem;
+}

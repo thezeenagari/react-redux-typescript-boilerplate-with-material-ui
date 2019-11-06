@@ -1,0 +1,7 @@
+.appBar {
+    background-color: #263238 !important;
+}
+
+.appBar .title {
+    margin: 0 0 0 5px;
+}

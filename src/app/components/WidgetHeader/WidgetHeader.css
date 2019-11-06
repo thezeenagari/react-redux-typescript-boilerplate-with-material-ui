@@ -1,0 +1,19 @@
+.header {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.header p {
+    margin: 0;
+    color: #607d8b;
+    font-size: 10px;
+    letter-spacing: 0.3px;
+}
+
+.header h6 {
+    color: #263238;
+    font-size: 1.2rem;
+    font-weight: 600;
+}

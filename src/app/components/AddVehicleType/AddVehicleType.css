@@ -1,0 +1,12 @@
+.AddVehicle {
+    width: 70%;
+    margin: auto;
+}
+
+.AddVehicle button {
+    margin: 0 5px;
+}
+
+.AddVehicle button:last-child {
+    margin-right: 0;
+}
